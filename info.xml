@@ -1,0 +1,16 @@
+<info>
+	<app>
+		<author>Siterre Nicolas</author>
+		<description>
+			<en-uk>Real Mah-jong game by Nicolas Siterre</en-uk>
+			<fr>Vrai jeu de Mah-jong par Nicolas Siterre</fr>
+			<de>Richtigte Mah-jong spiel bei Nicolas Siterre</de>
+		</description>
+		<version>None -- dev</version>
+	</app>
+	<files>
+		<Mah-jong.py>
+			<author>Siterre Nicolas</author><description><en-uk>Mah-jong game algorithm</en-uk><fr>algorithme du jeu de Mah-jong</fr><de>Algorithmus des Mah-jong spiel</de></description><version>0.1</version>
+		</Mah-jong.py>
+	</files>
+</info>
